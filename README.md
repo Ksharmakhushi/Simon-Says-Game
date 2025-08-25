@@ -5,5 +5,3 @@
 
 ---
 
-### Play the Game
-[**Click here to play Live Demo**](https://ksharmakhushi.github.io/Simon-Says-Game/)
